@@ -1,0 +1,1 @@
+["com.spark.scala.learning.CreateHiveTables","com.spark.scala.learning.IngestionFromMysql","com.spark.scala.learning.IngestionFromOracle","com.spark.scala.learning.IngestionFromPostgres","com.spark.scala.learning.LoadFromHive"]

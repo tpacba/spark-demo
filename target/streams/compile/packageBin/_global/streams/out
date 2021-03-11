@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/demo_2.12-0.1.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/IngestionFromMysql$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/IngestionFromMysql$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/CreateHiveTables$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/CreateHiveTables$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/IngestionFromOracle.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/IngestionFromOracle.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/IngestionFromPostgres$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/IngestionFromPostgres$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/LoadFromHive.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/LoadFromHive.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/LoadFromHive$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/LoadFromHive$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/IngestionFromPostgres.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/IngestionFromPostgres.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/IngestionFromMysql.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/IngestionFromMysql.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/CreateHiveTables.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/CreateHiveTables.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/spark/scala/learning/IngestionFromOracle$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fieldemployee/IdeaProjects/demo/target/scala-2.12/classes/com/spark/scala/learning/IngestionFromOracle$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
